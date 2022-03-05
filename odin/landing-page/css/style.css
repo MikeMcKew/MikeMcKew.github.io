@@ -1,3 +1,19 @@
-body {
-    font-size: 120px;
+header {
+    display: flex;
+}
+
+.info {
+    display: flex;
+}
+
+.quote {
+    display: flex;
+}
+
+.call {
+    display: flex;
+}
+
+footer {
+    display: flex;
 }
